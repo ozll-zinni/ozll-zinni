@@ -19,7 +19,7 @@
 <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
 <br>
-  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /><img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=PostgreSQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /><img src="https://img.shields.io/badge/PostgreSQL-003545?style=flat&logo=PostgreSQL&logoColor=white" />
  <br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" /><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=Html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=Css3&logoColor=white" /><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 </div>
