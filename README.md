@@ -26,7 +26,7 @@
 <p/>
 <br>
 <p/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yejineeeee&layout=compact&show_icons=true&theme=solarized-light">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yejineeeeee&layout=compact&show_icons=true&theme=solarized-light">
 <p/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=yejineeeee&layout=compact&show_icons=true&theme=solarized-light">
+<img src="https://github-readme-stats.vercel.app/api?username=yejineeeeee&layout=compact&show_icons=true&theme=solarized-light">
