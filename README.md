@@ -1,6 +1,6 @@
 ## Hi! I'm Yejin 👋
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!%20It's%20Hyeonahhh!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!%20It's%20Yejinee!&fontSize=90" />	
 </div>
 
 <h3>안녕하세요 김예진입니다!</h3>
