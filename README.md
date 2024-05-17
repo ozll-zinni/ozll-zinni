@@ -26,6 +26,12 @@
     
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg&logo=Django&logoColor=white">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badg&logo=opencv&logoColor=white"> 
+    <br>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
     <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
@@ -40,10 +46,6 @@
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> 
     <br>
 </div><br>
 </div>
