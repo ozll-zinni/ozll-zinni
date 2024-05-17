@@ -1,15 +1,32 @@
 ## Hi! I'm Yejin 👋
-A Back-End Developer, Data Engineer from South Korea
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!%20It's%20Hyeonahhh!&fontSize=90" />	
+</div>
 
+<h3>안녕하세요 김예진입니다!</h3>
 
+<h3>Contact</h3>
+<a href="mailto:dpwls0454@naver.com">
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://yejineeee.tistory.com/">
+		<img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Notion&logoColor=white" />
+</a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDawon00&count_bg=%23B1C978&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80++Today%27s+Visits+%2F+Total+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-[![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://seodawon.notion.site/Web-Developer-567c47ab15e5490994e50b527510bb69) [![tistory](https://img.shields.io/badge/tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white)](https://dawonny.tistory.com/) [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wonny_dev/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%8B%A4%EC%9B%90-%EC%84%9C-77846b295/)
-
-
-
-
-### Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=git,js,html,css,react,tailwind,vscode,notion)](https://skillicons.dev)
+<h3>My Skills</h3>
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" /><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" /><img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
+<br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
+<br>
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /><img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
+ <br>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" /><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=Html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=Css3&logoColor=white" /><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+</div>
+<p/>
+<br>
+<p/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonahhh&layout=compact&show_icons=true&theme=solarized-light">
+<p/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=hyeonahhh&layout=compact&show_icons=true&theme=solarized-light">
