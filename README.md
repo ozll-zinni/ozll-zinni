@@ -15,9 +15,6 @@
     <a href="https://yejineeee.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://yejineeee.tistory.com/)
-</div><br>
 
  
 ## 📞 Contact 📞
