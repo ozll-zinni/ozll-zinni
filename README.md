@@ -24,10 +24,10 @@
 </div><br>
     
 ## 🔨 Once I've used 🔨
-<!--  <img src="https://img.shields.io/badge/C-A8B9CC?style=square&logo=C&logoColor=black">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=square&logo=C&logoColor=black">
   <img src="https://img.shields.io/badge/JAVA-E34F26?style=square&logo=JAVA&logoColor=black">
  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=square&logo=PYTHON&logoColor=black">
- <br> -->
+ <br>
   <p><strong>Frontend</strong></p>
  <img src="https://img.shields.io/badge/HTML5-3776AB?style=square&logo=HTML5&logoColor=white">
  <img src="https://img.shields.io/badge/CSS3-1527B6?style=square&logo=CSS3&logoColor=white">
@@ -59,6 +59,5 @@
  <div align = center> 
  
  </div>
-<!--
 <br>
 </div>
