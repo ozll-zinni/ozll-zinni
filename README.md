@@ -51,7 +51,7 @@
     <div>
         <img src="https://img.shields.io/badge/linux-FCC624?style=square&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=square&logo=amazon aws&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=square&logo=amazon ec2&logoColor=white"> 
     </div>
   <p><strong>Devtool</strong></p>
  <img src="https://img.shields.io/badge/GIT-F05032?style=square=GIT&logoColor=black">
